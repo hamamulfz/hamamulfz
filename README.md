@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][python]
 [<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />][python]
-[<img alt="PHP" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=php&logoColor=white" />][php]
+[<img alt="PHP" src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white" />][php]
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 
 ### Framwork
 
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
-[<img alt="Figma" src="https://img.shields.io/badge/Yii2%20-%23F24E1E.svg?&style=for-the-badge&logo=yii2&logoColor=white"/>][yii2]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 ### Database
