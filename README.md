@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter and Yii2 anytime
 - 📫 How to reach me: hamamul dot fauzi at gmail dot com. Discord hamamulfz#6086
 - ⚡ Fun fact: Always feeling as a newcomer. not an experts
-<!--
+
 
 
 ### Connect with me:
 [<img alt="Youtube" src="https://img.shields.io/badge/Hamamul Fauzi%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Hamamul Fauzi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/hamamulfz__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
--->
+
 
 ### Languages
 
