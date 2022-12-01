@@ -12,7 +12,7 @@
 
 
 
-### Connect with me:
+## Connect with me:
 [<img alt="Youtube" src="https://img.shields.io/badge/Hamamul Fauzi%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Hamamul Fauzi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/hamamulfz__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
@@ -24,7 +24,7 @@
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8532655370049519475) 
 <!-- [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/frontier-crypto-defi-wallet/id1482380988) -->
 
-### Tech Stack
+## Tech Stack
 
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
@@ -37,17 +37,17 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white" />
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 
-### Database
+## Database
 [<img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][python]
 [<img alt="Mysql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />][python]
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Cloud Stack
+## Cloud Stack
 [<img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />][python]
 [<img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />][python]
-
-
+![vultr](https://img.shields.io/badge/VULTR-4285F4?style=for-the-badge&logo=vultr&logoColor=white)
+![digitalocean](https://img.shields.io/badge/digital%20ocean-4285F4?style=for-the-badge&logo=digitalocean&logoColor=white)
 <!-- YOUTUBE:START
 - [xxx](https://url)
 -->
