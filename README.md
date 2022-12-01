@@ -1,11 +1,8 @@
-### Hi there 👋
-
-
-**hamamulfz/hamamulfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a mobile developer using Flutter and partially in backend using yii2 for enterprise product.
+- 🔭 I’m currently working as a mobile developer using Flutter and partially in backend using yii2 as an api for enterprise product.
 - 🌱 I’m currently learning Golang and improving my UI skill in mobile development
 - 👯 I’m looking to collaborate on creating an open source product and mentoring newcomer developer to help them reach their dream
 - 🤔 I’m looking for help with ...
@@ -24,8 +21,9 @@ Here are some ideas to get you started:
 ### Languages
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][python]
+[<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" />][python]
 [<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />][python]
-[<img alt="PHP" src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white" />][php]
+<img alt="PHP" src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white" />
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 
 ### Framwork
