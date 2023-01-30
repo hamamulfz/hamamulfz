@@ -13,6 +13,7 @@
 
 
 ## Connect with me:
+[<img alt="Gitlab" src="https://img.shields.io/badge/G I T L A B%20-%23FF0000.svg?&style=for-the-badge&logo=Gitlab&logoColor=white"/>][gitlab]
 [<img alt="Youtube" src="https://img.shields.io/badge/Hamamul Fauzi%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Hamamul Fauzi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/hamamulfz__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
@@ -68,6 +69,7 @@
 [flutter]: https://flutter.dev
 [python]: https://www.python.org/
 [email]: mailto:hamamul.fauzi@gmail.com
+[gitlab]: https://gitlab.com/hamamulfz
 
 
   ## 💰You can help me by Donating
